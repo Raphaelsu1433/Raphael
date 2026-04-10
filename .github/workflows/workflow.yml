@@ -1,4 +1,4 @@
-name: Run Python Fact Script
+name: Run Python main Script
 
 on:
   push:
